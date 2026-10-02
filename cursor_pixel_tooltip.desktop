@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=cursor_pixel_tooltip
+X-Python-2-Compatible=false
+Name=Cursor Pixel Tooltip
+Comment=Shows the image pixel under the cursor in the status bar.

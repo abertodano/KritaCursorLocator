@@ -6,4 +6,6 @@ A simple script for Krita that displays the cursor's exact pixel location.
 
 A small tooltip is displayed at the bottom right of the screen with the pixel coordinates.
 
+All files provided individually. Alternatively, download the .zip and load directly into Krita.
+
 Refresh rate (can impact performance) and text format are customizable.

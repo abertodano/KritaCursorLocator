@@ -1,0 +1,3 @@
+# KritaCursorLocator
+# KritaCursorLocator
+# KritaCursorLocator
